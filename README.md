@@ -17,3 +17,7 @@ daily use application opening with an OLED for Tracking Time to be punctual.
 (<3>) = Also using a rotary Encoder for volume increase and decrease with onside button when clicked makes the sound mute
 
  ::  The foot print and the firmware will be provided in the github repo (=_=)
+ 
+ ::SCHEMATIC::
+ 
+<img width="930" height="529" alt="Snipaste_2026-02-28_01-05-36" src="https://github.com/user-attachments/assets/4833d32a-d639-4b6e-a74a-704345631174" />

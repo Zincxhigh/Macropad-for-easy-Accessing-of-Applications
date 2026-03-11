@@ -25,7 +25,7 @@ The macropad is designed for productivity shortcuts such as launching apps, swit
 
 * Seeed Studio XIAO SAMD21
 
-## Components
+## BOM
 
 * 6 × Mechanical switches
 * 6 × Diodes
@@ -111,9 +111,8 @@ firmware/code.py
 
 
 
-## Assembled Board (optional)
+## Assembled Board
 
-<img width="932" height="843" alt="Snipaste_2026-03-11_22-27-43" src="https://github.com/user-attachments/assets/6fdf9174-bf4b-4512-954b-d3a7172183ac" />
 <img width="932" height="843" alt="Snipaste_2026-03-11_22-33-47" src="https://github.com/user-attachments/assets/fe522403-476a-413f-a31b-830b27049232" />
 
 <img width="932" height="843" alt="Snipaste_2026-03-11_22-34-20" src="https://github.com/user-attachments/assets/0c2ed6b3-4bf7-4a28-9770-e7a932b1f6f2" />

@@ -20,7 +20,7 @@ A 6-key macropad with a rotary encoder and OLED display, built around the **XIAO
 * 5 × diode_SMD
 * 2 x diode_THT
 * 1 × EC11 rotary encoder
-* 1 × OLED
+* 1 × OLED Conn_01x04
 
 ---
 | Component             | Function         | Microcontroller Pin |

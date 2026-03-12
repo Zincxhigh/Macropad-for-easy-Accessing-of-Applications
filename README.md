@@ -11,7 +11,7 @@ A 6-key macropad with a rotary encoder and OLED display, built around the **XIAO
 * OLED display
 * Shows **volume bar when Changing volume**
 * Shows **date and time when it is doing nothing**
-* Built using **KMK firmware**
+* **KMK firmware**
 
 ---
 ## BOM

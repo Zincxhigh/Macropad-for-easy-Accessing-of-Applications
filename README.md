@@ -43,13 +43,6 @@ Firmware is written using **KMK**.
 I will do debugging when parts arrive
 Thanks to hackclub
 
-# features:
-
-* Matrix switch system
-* rotary Encoder for volume control
-* OLED UI
-* Application keys for shortcuts
-
 # refrences
 
 ## Schematic

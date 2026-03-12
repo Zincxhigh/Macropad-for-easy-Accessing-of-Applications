@@ -5,12 +5,12 @@ A 6-key macropad with a rotary encoder and OLED display, built around the **XIAO
 
 # Features
 
-* 6 keys (3×2 matrix)
+* 6 keys 
 * Rotary encoder for volume control
 * Encoder press for mute
 * OLED display
-*  * Shows **volume bar when adjusting volume**
-   * * Shows **date and time when idle**
+* Shows **volume bar when Changing volume**
+* Shows **date and time when it is doing nothing**
 * Built using **KMK firmware**
 
 ---

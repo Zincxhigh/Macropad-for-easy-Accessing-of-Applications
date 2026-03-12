@@ -17,7 +17,8 @@ A 6-key macropad with a rotary encoder and OLED display, built around the **XIAO
 ## BOM
 
 * 6 × switches
-* 6 × Diodes
+* 5 × diode_SMD
+* 2 x diode_THT
 * 1 × EC11 rotary encoder
 * 1 × OLED
 

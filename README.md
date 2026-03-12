@@ -33,9 +33,8 @@ A 6-key macropad with a rotary encoder and OLED display, built around the **XIAO
 | Rotary Encoder A      | Encoder signal A | D6                  |
 | Rotary Encoder B      | Encoder signal B | D7                  |
 | Rotary Encoder Button | Push switch      | D8                  |
-| OLED SDA              | I2C Data         | SDA                 |
-| OLED SCL              | I2C Clock        | SCL                 |
-| RGB LED (optional)    | Status lighting  | D9                  |
+| OLED SDA              | Conn_01x04 Data  | SDA                 |
+| OLED SCL              | Conn_01x04 Clock | SCL                 |
 | VCC                   | Power            | 3.3V                |
 | GND                   | Ground           | GND                 |
 

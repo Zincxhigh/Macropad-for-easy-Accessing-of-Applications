@@ -23,13 +23,6 @@ A 6-key macropad with a rotary encoder and OLED display, built around the **XIAO
 
 ---
 
-# Hardware for production
-
-## Microcontroller
-
-* Seeed Studio XIAO SAMD21
-
-
 # Layout for board
 
 | COL0   | COL1    | COL2            |

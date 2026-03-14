@@ -69,7 +69,7 @@ Thanks to hackclub
 ## PCB
 
 
-<img src="images/pcb-layout.png" alt="Macropad PCB Layout" width="700">
+<img src="./images/pcb-layout.png" width="750">
 
 
 ## #D model Board

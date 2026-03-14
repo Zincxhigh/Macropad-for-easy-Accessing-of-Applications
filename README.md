@@ -69,7 +69,7 @@ Thanks to hackclub
 ## PCB
 
 
-![PCB](Snipaste_2026-03-14_21-36-08-1.png)
+![alt text](Snipaste_2026-03-14_21-36-08-1.png)
 
 
 ## #D model Board

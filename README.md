@@ -68,7 +68,7 @@ Thanks to hackclub
 
 ## PCB
 
-<img width="900" src="./pcb.png">
+<img width="900" src="./PCB.png">
 
 
 ## #D model Board

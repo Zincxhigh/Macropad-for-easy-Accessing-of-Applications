@@ -69,7 +69,7 @@ Thanks to hackclub
 ## PCB
 
 
-<img width="685" height="515" alt="Snipaste_2026-03-11_22-19-35" src="https://github.com/user-attachments/assets/96b823db-1e5e-4052-9c08-334d3b97b6b3" />
+
 
 
 ## #D model Board

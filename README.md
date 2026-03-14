@@ -69,7 +69,7 @@ Thanks to hackclub
 ## PCB
 
 
-![alt text](Snipaste_2026-03-14_21-36-08-1.png)
+<img src="images/pcb-layout.png" alt="Macropad PCB Layout" width="700">
 
 
 ## #D model Board

@@ -68,8 +68,7 @@ Thanks to hackclub
 
 ## PCB
 
-
-<img width="932" height="843" alt="image" src="https://github.com/user-attachments/assets/xxxxx" />
+<img width="900" src="./.png">
 
 
 ## #D model Board

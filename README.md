@@ -68,7 +68,7 @@ Thanks to hackclub
 
 ## PCB
 
-<img width="900" src="./Snipaste_2026-03-14_21-36-08-1.png.png">
+<img width="900" src="Snipaste_2026-03-14_21-36-08-1.png.png">
 
 
 ## #D model Board
